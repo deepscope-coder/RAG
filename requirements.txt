@@ -1,0 +1,7 @@
+torch
+transformers
+sentence-transformers
+PyPDF2
+tenacity
+pinecone
+streamlit
